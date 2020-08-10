@@ -1,0 +1,3 @@
+LINK:
+
+https://public.tableau.com/profile/mahmoud.saad#!/vizhome/visualizingrealstatedata/bedroomcount-rental?publish=yes
