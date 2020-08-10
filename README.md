@@ -67,3 +67,7 @@ Elicitation director of finance:
 15.	What is included in the model? How well does the model fit the Data?
 16.	Assumptions and how they impact conclusions.
 17.	Watershed will pay for everything for now.
+
+
+Data exploration in Tableau:
+https://public.tableau.com/profile/mahmoud.saad#!/vizhome/visualizingrealstatedata/bedroomcount-rental?publish=yes
